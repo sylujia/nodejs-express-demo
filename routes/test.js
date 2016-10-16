@@ -7,7 +7,7 @@ router.get('/', function(req, res, next) {
 });
 
 router.get('/jia', function (req,res) {
-    res.send('你好 jia');
+    res.send('你好  jia');
 });
 
 module.exports = router;
